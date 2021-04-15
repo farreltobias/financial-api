@@ -44,9 +44,7 @@ Added :sparkles:TRANSACTIONS:sparkles: from account to account!
 
 Here's a exemple by performing a transaction in Insomnia
 
-<span align="center">
-  <img src="https://i.imgur.com/g5Y7xHK.gif"/>
-</span>
+<img src="https://i.imgur.com/g5Y7xHK.gif"/>
 
 ## :thinking: How To Use
 
@@ -73,9 +71,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/farr
 
 Made with :yellow_heart: by Guilherme Farrel [Get in touch!](https://www.linkedin.com/in/farreltobias/)
 
-<span align="center">
+<p align="center">
   <img style="margin-top: 4%;" width="30%" src="https://i.imgur.com/hYfYcOE.png"/>
-</span>
+</p>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
